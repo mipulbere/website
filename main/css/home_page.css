@@ -1,0 +1,43 @@
+.title {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 50px;
+}
+
+blockquote {
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.menuButton {
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+.navbar{
+    
+    background-color: #000000;
+    border-color: #000000;
+    color: #FFFFFF
+}
+
+
+

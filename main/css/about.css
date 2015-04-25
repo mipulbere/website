@@ -1,0 +1,40 @@
+.title {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 50px;
+}
+
+.about {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.description {
+    font-size: 20px;
+    text-align: center;
+    border: solid;
+    
+}
+
+p. {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+.navbar{
+    
+    background-color: #000000;
+    border-color: #000000;
+    color: #FFFFFF
+}
+ 
