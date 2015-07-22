@@ -8,7 +8,7 @@
     color: #FFFFFF;
 }
 
-.about {
+.work {
     font-family: 'Quicksand', sans-serif;
     font-size: 30px;
     text-align: center;
@@ -36,44 +36,11 @@ body {
     color: #FFFFFF;
     
 }
-
-p. {
-    float: left;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: #FFFFFF;
-}
-
-.ourservices {
-    padding-top: 120px;
-    text-align: center;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 35px;
-    color: #FFFFFF;
-}
-.service {
-    font-size: 20px;
-    color: #FFFFFF;
-    padding-top: 10px; 
-    padding-bottom: 10px;
-    text-align: center;
-    
-    
-}
-.row-centered {
-    text-align:center;
-}
-.col-centered {
-    display:inline-block;
-    text-align:center;
-    float:none;
-    margin-right:-4px;
-}
-
+ 
 .navbar{
     
     background-color: #000000;
     border-color: #000000;
     color: #FFFFFF
 }
- 
+
